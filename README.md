@@ -35,7 +35,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [The-animal-clinic-db] <a name="about-project"></a>
+# 📖 The-animal-clinic-db <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
