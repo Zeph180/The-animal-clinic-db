@@ -45,8 +45,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -72,8 +70,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Animal date of birth]** - The date of birth of the animal is stored in the database.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -81,8 +77,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Coming soon](<replace-with-your-deployment-URL>)
 
@@ -176,8 +170,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
 - GitHub: [Zeph180](https://github.com/Zeph180)
@@ -209,8 +201,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project, give it a star and lets connect on socials.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -218,8 +208,6 @@ If you like this project, give it a star and lets connect on socials.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse for the opportunity to work on this project.
 
