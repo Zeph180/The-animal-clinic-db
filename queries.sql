@@ -1,3 +1,4 @@
 /*Queries that provide answers to the questions from all projects.*/
 
-SELECT * from animals WHERE name = 'Luna';
+-- select name ending with mon
+SELECT * FROM animals WHERE NAME like '%mon'
