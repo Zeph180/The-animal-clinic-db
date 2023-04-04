@@ -1,5 +1,4 @@
-# curriculum-databases-projects-template
-
+# The-animal-clinic-db
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
