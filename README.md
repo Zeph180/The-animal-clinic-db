@@ -1,11 +1,4 @@
 # The-animal-clinic-db
-## Getting Started
-
-This repository includes files with plain SQL that can be used to recreate a database:
-
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
 <a name="readme-top">The-animal-clinic-db</a>
 
@@ -37,27 +30,11 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 # 📖 The-animal-clinic-db <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[The-animal-clinic-db]** is a database for a veterinary clinic. It contains information about animals.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
 
 <details>
 <summary>Database</summary>
@@ -73,12 +50,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - **[Animal date of birth]** - The date of birth of the animal is stored in the database.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Coming soon](<replace-with-your-deployment-URL>)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,7 +73,7 @@ Clone this repository to your desired folder:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Kigozi Joseph Suubi**
 
 - GitHub: [Zeph180](https://github.com/Zeph180)
 - Twitter: [@richards_zeph](https://twitter.com/richards_zeph)
